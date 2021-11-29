@@ -2,7 +2,9 @@
 - 👉 Passioné de sécurité informatique
 - ❓  Pentest WEB / Sécurité reseau 
 
-\n- Code :  🐍 Python  
+.
+.
+- Code :  🐍 Python  
 - OS   :  💻 Debian
 
 
