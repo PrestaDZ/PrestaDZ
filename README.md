@@ -1,9 +1,9 @@
-> 🙋‍♂️ Presta 
-> 👉 Passioné de sécurité informatique
-> ❓  Pentest WEB / Sécurité reseau 
+- 🙋‍♂️ Presta 
+- 👉 Passioné de sécurité informatique
+- ❓  Pentest WEB / Sécurité reseau 
 
-> Code :  🐍 Python  
-> OS   :  💻 Debian
+- Code :  🐍 Python  
+- OS   :  💻 Debian
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
