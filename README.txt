@@ -4,5 +4,5 @@
 
 ⸻⸻⸻⸻⸻
 > 🇩🇿 🇩🇿 🇩🇿
-> Presta#3904 ( Discord )
+> Presta#3904
 > https://tryhackme.com/p/rahim
