@@ -4,11 +4,9 @@
 
 .
 .
-- Code :  🐍 Python  
-- OS   :  💻 Debian
+Code :  🐍 Python  
+OS   :  💻 Debian
 
-
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 - 🇩🇿 Algérien 
 - Presta#3904 ( Discord )
