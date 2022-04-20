@@ -1,5 +1,5 @@
 - 🙋‍♂️ Presta 
-- 👉 Sécurité informatique
+- 💻 Sécurité informatique
 - ❓ WEB / Réseau 
 
 ⸻⸻⸻⸻⸻
