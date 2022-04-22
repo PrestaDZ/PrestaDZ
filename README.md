@@ -1,8 +1,7 @@
 # Presta
-
-- 🙋‍♂️ Presta 
+ 
 - 💻 IT security
-- ❓ WEB / Réseau 
+- ❓ WEB / Network
 
 ***
 
