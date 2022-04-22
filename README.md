@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prestaa&show_icons=false&theme=dark&hide=prs" width="500" height="600" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestaa&theme=dark&langs_count=3&icons=true" width="500" height="600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestaa&theme=dark&langs_count=3&icons=true" width="300" height="300" />
 </a>
 
 
