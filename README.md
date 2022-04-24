@@ -1,7 +1,7 @@
 # Presta
  
 - 💻 IT security
-- ❓ WEB / Network
+- ❓ WEB / Networking
 - 🐍 Python scripting
 - ☠️ https://tryhackme.com/p/rahim
 
