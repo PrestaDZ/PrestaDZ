@@ -1,9 +1,9 @@
 # Presta
  
-- 💻 IT security
-- ❓ WEB / Networking
-- 🐍 Python scripting
-- ☠️ https://tryhackme.com/p/rahim
+- 💻 **CyberSec entusiast**
+- ❓ **WEB pentest / Networking**
+- 🐍 **Python3 scripting**
+- ☠️ **https://tryhackme.com/p/rahim**
 
 ***
 
