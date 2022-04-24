@@ -2,6 +2,8 @@
  
 - 💻 IT security
 - ❓ WEB / Network
+- 🐍 Python scripting
+- ☠️ https://tryhackme.com/p/rahim
 
 ***
 
