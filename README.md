@@ -7,8 +7,11 @@
 
 ***
 
+
 [![Presta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prestaa&show_icons=true&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
 <style>
 				img{
        height:20
