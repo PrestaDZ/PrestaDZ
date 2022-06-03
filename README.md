@@ -8,7 +8,7 @@
 ***
 
 
-[![Presta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prestaa&show_icons=true&theme=dark&hide=prs, contrib)](https://github.com/anuraghazra/github-readme-stats)
+[![Presta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prestaa&show_icons=true&theme=dark&hide=prs,contrib)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
