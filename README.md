@@ -14,10 +14,7 @@
 
 <p align="center">
 <div style="width: 10px;"></div>
-<div align="center">
  <a href="https://app.hackthebox.com/profile/NullBrink" ><img src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4" width="150" height="160"</a> 
-
-    <a href"https://github.com/0xLoky?tab=followers">
  <a href="https://www.root-me.org/NullBrunk" ><img src="https://www.root-me.org/IMG/logo/siteon0.svg" width="100" height="100"></a>
  
     </a>
